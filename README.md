@@ -10,8 +10,7 @@ Actualmente estoy estudiando "Licenciatura en Informatica" en la **Universidad N
 Me interesa mucho la tecnologia y seguir aprendiendo cosas nuevas a diario.
 
 <p align="center">
- <img src="assets/LemoFernanda.png" alt="Fotografia de Fernanda Lemo" width= "300
- " style="border-radius: 50%;"/>
+ <img src="assets/LemoFernanda.png" alt="Fotografia de Fernanda Lemo" width="300" style="border-radius: 50%;"/>
  </p>
 
  ---
