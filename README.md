@@ -1,14 +1,26 @@
-![Logo UNAHUR](assets/UNAHUR.png)
+# Presentacion Personal
+<p align="center">
+<img src="assets/UNAHUR.png" alt="Logo UNAHUR" width="180">
+</p>
 
-# Programacion con objetos I
-## Presentacion Personal
+---
+# 🖥️Informacion sobre mi
+Hola a tod@s! Me presento, soy **Lemo Fernanda Abigail Rita y tengo 20 años**.
+Actualmente estoy estudiando "Licenciatura en Informatica" en la **Universidad Nacional de Hurlingham (UNAHUR)**.
+Me interesa mucho la tecnologia y seguir aprendiendo cosas nuevas a diario.
 
-### Datos Personales
-- Mi nombre es:
-- Vivo en
+<p align="center">
+ <img src="assets/LemoFernanda.png" alt="Fotografia de Fernanda Lemo" width: "220" style="border-radius: 50;%">
+ </p>
+
+ ---
+ # 📖Materia que estoy cursando 
+ * **Asignatura:** Programacion con Objetos 1
+ * **Universidad:** Universidad Nacional de Hurlingham
+ * **Año:** 2026
+
+ ---
+
+ 
 
 
-### Otra Informacion
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
-![Lemo Fernanda](assets/LemoFernanda.png) 
