@@ -83,8 +83,8 @@
   <tr>
     <td width="50%" align="center">
       <p align="left">En 2021, en plena pandemia y cuando tenía 15 años, realicé un curso gratuito de 3 meses llamado <b>"Yo puedo programar"</b> de <i>Junior Achievement Argentina</i>, el cual trataba de crear tu primera página web viendo contenidos básicos de HTML, CSS y JavaScript.</p>
+      <p align="left"> Siempre me parecio interesante y llamativo el saber como se realiza una pagina web y aprender a transformar mis propias ideas! </p>
       <p align="left">Fue gracias a ese curso que terminé de confirmar mi vocación y entonces decidí que la informática era la rama ideal para lo que me gustaba.</p>
-      <br><br><br>
       <img src="assets/gif decorativo3.png" width="180" height="180" style="object-fit: cover; border-radius: 8px;" />
     </td>
     <td width="50%" align="center">
