@@ -77,29 +77,30 @@
 # 👩🏻‍💻 Informacion sobre mi
 
 
-<table width="100%" style="display: flex;">
-  <tr style="display: flex; width: 100%;">
-    <td width="50%"  style="display: flex; flex-direction: column; justify-content: space-between;">
-      <div>
-        <p>En 2021, en plena pandemia y cuando tenía 15 años, realicé un curso gratuito de 3 meses llamado <b>"Yo puedo programar"</b> de <i>Junior Achievement Argentina</i>, el cual trataba de crear tu primera página web viendo contenidos básicos de HTML, CSS y JavaScript.</p>
-        <p>Fue gracias a ese curso que terminé de confirmar mi vocación y entonces decidí que la informática era la rama ideal para lo que me gustaba.</p>
-      </div>
-      <p align="center" style="margin-top: auto;">
-        <img src="assets/gif decorativo3.png" width="180" height="180" style="object-fit: cover; border-radius: 9px;" />
-      </p>
+<table width="100%">
+  <!-- Fila 1: Textos al inicio -->
+  <tr valign="top">
+    <td width="50%">
+      <p align="left">En 2021, en plena pandemia y cuando tenía 15 años, realicé un curso gratuito de 3 meses llamado <b>"Yo puedo programar"</b> de <i>Junior Achievement Argentina</i>, el cual trataba de crear tu primera página web viendo contenidos básicos de HTML, CSS y JavaScript.</p>
+      <p align="left">Fue gracias a ese curso que terminé de confirmar mi vocación y entonces decidí que la informática era la rama ideal para lo que me gustaba.</p>
     </td>
-    <td width="50%"  style="display: flex; flex-direction: column; justify-content: space-between;">
-      <div>
-        <p>Desde chica siempre me ha llamado la atención el mundo de la tecnología. Recuerdo pasar horas explorando los teléfonos antiguos —como los clásicos Nokia de mis papás—.</p>
-        <p>Me daba curiosidad entender qué había "detrás" de cada aplicación y cómo funcionaban por dentro.</p>
-        <p>Hoy sigo conservando esa misma curiosidad en mi carrera: sigo estudiando para explorar cómo funciona el software por dentro y transformar esa fascinación en herramientas y proyectos para mi futuro.</p>
-      </div>
-      <p align="center" style="margin-top: auto;">
-        <img src="assets/imagen decorativa1.png" width="180" height="180" style="object-fit: cover; border-radius: 8px;" />
-      </p>
+    <td width="50%">
+      <p align="left">Desde chica siempre me ha llamado la atención el mundo de la tecnología. Recuerdo pasar horas explorando los teléfonos antiguos —como los clásicos Nokia de mis papás—.</p>
+      <p align="left">Me daba curiosidad entender qué había "detrás" de cada aplicación y cómo funcionaban por dentro.</p>
+      <p align="left">Hoy sigo conservando esa misma curiosidad en mi carrera: sigo estudiando para explorar cómo funciona el software por dentro y transformar esa fascinación en herramientas y proyectos para mi futuro.</p>
+    </td>
+  </tr>
+ 
+  <tr valign="bottom">
+    <td align="center">
+      <img src="assets/gif decorativo3.png" width="180" height="180" style="object-fit: cover; border-radius: 9px;" />
+    </td>
+    <td align="center">
+      <img src="assets/imagen decorativa1.png" width="180" height="180" style="object-fit: cover; border-radius: 8px;" />
     </td>
   </tr>
 </table>
+
 
 <p align="center">
 <img src="assets/banner imagen3.png" width="600"/>
