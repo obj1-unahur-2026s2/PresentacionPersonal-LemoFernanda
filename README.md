@@ -77,25 +77,21 @@
 # 👩🏻‍💻 Informacion sobre mi
 
 
-<table width="100%">
-  <!-- Fila 1: Textos al inicio -->
-  <tr valign="top">
-    <td width="50%">
+
+ 
+  <table width="100%">
+  <tr>
+    <td width="50%" align="center">
       <p align="left">En 2021, en plena pandemia y cuando tenía 15 años, realicé un curso gratuito de 3 meses llamado <b>"Yo puedo programar"</b> de <i>Junior Achievement Argentina</i>, el cual trataba de crear tu primera página web viendo contenidos básicos de HTML, CSS y JavaScript.</p>
       <p align="left">Fue gracias a ese curso que terminé de confirmar mi vocación y entonces decidí que la informática era la rama ideal para lo que me gustaba.</p>
+      <br><br><br>
+      <img src="assets/gif decorativo3.png" width="180" height="180" style="object-fit: cover; border-radius: 8px;" />
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <p align="left">Desde chica siempre me ha llamado la atención el mundo de la tecnología. Recuerdo pasar horas explorando los teléfonos antiguos —como los clásicos Nokia de mis papás—.</p>
       <p align="left">Me daba curiosidad entender qué había "detrás" de cada aplicación y cómo funcionaban por dentro.</p>
       <p align="left">Hoy sigo conservando esa misma curiosidad en mi carrera: sigo estudiando para explorar cómo funciona el software por dentro y transformar esa fascinación en herramientas y proyectos para mi futuro.</p>
-    </td>
-  </tr>
- 
-  <tr valign="bottom">
-    <td align="center">
-      <img src="assets/gif decorativo3.png" width="180" height="180" style="object-fit: cover; border-radius: 9px;" />
-    </td>
-    <td align="center">
+      <br>
       <img src="assets/imagen decorativa1.png" width="180" height="180" style="object-fit: cover; border-radius: 8px;" />
     </td>
   </tr>
